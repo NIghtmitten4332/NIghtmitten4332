@@ -1,4 +1,4 @@
-### Aloha 👋🏾  , I'm Geron
+### Aloha 👋🏾 , I'm Geron
 ![](https://media.licdn.com/dms/image/D5616AQFgWoTMwF7tBA/profile-displaybackgroundimage-shrink_350_1400/0/1703185027286?e=1708560000&v=beta&t=0EYXqMRnHH4TF2_6pBNNJxjubGaJMzFittcVu30SjCU)
 
 I am Full Stack Software Engineer with a proven track record of creating scalable, responsive, and user-friendly web applications using React, C#, Microsoft SQL Server, JavaScript, APIs, SQL Server and other modern front-end frameworks and libraries.

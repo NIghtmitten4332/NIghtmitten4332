@@ -11,5 +11,5 @@ Skills: .NET / C# / MSSQL / APIs / React.js / JS / jQuery / GIT
 - 📫 How to reach me: gerondebose.fullstackeng@gmail.com 
 - ⚡ Fun fact: I'm learning 한극어[han-gu-geo] (Korean) 
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]![](https://github.com/NIghtmitten4332/AssignRef)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/geron-debose/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/NIghtmitten4332/AssignRef)]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/geron-debose/)  
 
